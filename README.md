@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### 👋 Hi, I’m Tysuiku(Tim)
+👀 I’m interested in working for money $ as a SWE
+🌱 I’m currently learning ruby fullstack
+📫 How to reach me? linkedIn dm : email
 <!--
 **Tysuiku/Tysuiku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
