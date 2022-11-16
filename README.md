@@ -1,5 +1,5 @@
 ### 
-👋 Hi, I’m Tysuiku(Tim)
+👋 Hi, I’m Tysuiku (Tim)
 
 👀 I’m interested in working for money $ as a SWE
 
