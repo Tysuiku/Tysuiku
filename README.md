@@ -7,9 +7,7 @@
     </td>
   </tr>
   <tr>
-    <td style="background-color: white; padding: 10px;">
       <img src="https://github-readme-stats.vercel.app/api?username=Tysuiku&show_icons=true&theme=radical">
-    </td>
   </tr>
 </table>
 
