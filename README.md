@@ -1,4 +1,4 @@
-<table align="center" style="border-collapse: collapse; width: 100%; max-width: 600px;">
+<table align="center" style="border-collapse: collapse; width: 95%; max-width: 600px;">
   <tr>
     <td style="padding: 10px;">
       <a href="https://www.youtube.com/@tysuiku" target="_blank">
