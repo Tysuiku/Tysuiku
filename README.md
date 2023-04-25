@@ -7,7 +7,15 @@
   <hr>
 </div>
 
-<table align="center" style="border-collapse: collapse; width: 100%; max-width: 575px;">
+<div align="center">
+  <span style="font-size: 18px; border: 2px solid #333; border-radius: 5px; padding: 5px; margin: 2px;">React</span>
+  <span style="font-size: 18px; border: 2px solid #333; border-radius: 5px; padding: 5px; margin: 2px;">Ruby</span>
+  <span style="font-size: 18px; border: 2px solid #333; border-radius: 5px; padding: 5px; margin: 2px;">Ruby on Rails</span>
+  <span style="font-size: 18px; border: 2px solid #333; border-radius: 5px; padding: 5px; margin: 2px;">JavaScript</span>
+  <span style="font-size: 18px; border: 2px solid #333; border-radius: 5px; padding: 5px; margin: 2px;">PostgreSQL</span>
+</div>
+
+<table align="center" style="border-collapse: collapse; width: 100%; max-width: 575px; margin-top: 15px;">
   <tr>
     <td>
       <img style="margin-left: 10px" src="https://github-readme-stats.vercel.app/api?username=Tysuiku&show_icons=true&theme=radical" style="border: 5px solid #333; border-radius: 10px;">
