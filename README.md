@@ -14,6 +14,9 @@
       <td><strong>Ruby on Rails</strong></td>
       <td><strong>JavaScript</strong></td>
       <td><strong>PostgreSQL</strong></td>
+       <td><strong>MongoDb</strong></td>
+       <td><strong>Express</strong></td>
+       <td><strong>AWS</strong></td>
     </tr>
   </table>
 </div>
