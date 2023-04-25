@@ -3,14 +3,14 @@
 </div>
 
 <div align="center">
-  <h2>To Tysuiku's Page</h2>
+  <h2 style="font-size: 30px">To Tysuiku's Page</h2>
   <hr>
 </div>
 
 <table align="center" style="border-collapse: collapse; width: 100%; max-width: 575px;">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Tysuiku&show_icons=true&theme=radical" style="border: 5px solid #333; border-radius: 10px;">
+      <img style="margin-left: 10px" src="https://github-readme-stats.vercel.app/api?username=Tysuiku&show_icons=true&theme=radical" style="border: 5px solid #333; border-radius: 10px;">
     </td>
   </tr>
   <tr>
