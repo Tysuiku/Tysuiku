@@ -1,8 +1,12 @@
+<div align="center">
+  <h2>Welcome to Tysuiku's Page</h2>
+</div>
+
 <table align="center" style="border-collapse: collapse; width: 95%; max-width: 575px;">
   <tr>
     <td style="padding: 8px;">
       <a href="https://www.youtube.com/@tysuiku" target="_blank">
-        <img src="https://puu.sh/JD4aB/7e3925b030.gif" style="border: 5px solid #00BFFF; border-radius: 10px;">
+        <img src="https://puu.sh/JD4aB/7e3925b030.gif" width="200" style="border: 5px solid #00BFFF; border-radius: 10px;">
       </a>
     </td>
   </tr>
@@ -19,6 +23,7 @@
     </td>
   </tr>
 </table>
+
 
 
 
