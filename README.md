@@ -11,7 +11,15 @@
       <img src="https://github-readme-stats.vercel.app/api?username=Tysuiku&show_icons=true&theme=radical" style="border: 5px solid #333; border-radius: 10px;">
     </td>
   </tr>
+  <tr>
+    <td style="padding: 8px;">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tysuiku&hide_progress=true" style="border: 5px solid #333; border-radius: 10px;">
+      </a>
+    </td>
+  </tr>
 </table>
+
 
 
 
