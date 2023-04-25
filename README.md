@@ -3,22 +3,26 @@
 </div>
 
 <div align="center">
-  <h2 style="font-size: 30px">To Tysuiku's Page</h2>
+  <h2><strong>To Tysuiku's Page</strong></h2>
   <hr>
 </div>
 
 <div align="center">
-  <span style="font-size: 18px; border: 2px solid #333; border-radius: 5px; padding: 5px; margin: 2px;">React</span>
-  <span style="font-size: 18px; border: 2px solid #333; border-radius: 5px; padding: 5px; margin: 2px;">Ruby</span>
-  <span style="font-size: 18px; border: 2px solid #333; border-radius: 5px; padding: 5px; margin: 2px;">Ruby on Rails</span>
-  <span style="font-size: 18px; border: 2px solid #333; border-radius: 5px; padding: 5px; margin: 2px;">JavaScript</span>
-  <span style="font-size: 18px; border: 2px solid #333; border-radius: 5px; padding: 5px; margin: 2px;">PostgreSQL</span>
+  <table>
+    <tr>
+      <td><strong>React</strong></td>
+      <td><strong>Ruby</strong></td>
+      <td><strong>Ruby on Rails</strong></td>
+      <td><strong>JavaScript</strong></td>
+      <td><strong>PostgreSQL</strong></td>
+    </tr>
+  </table>
 </div>
 
 <table align="center" style="border-collapse: collapse; width: 100%; max-width: 575px; margin-top: 15px;">
   <tr>
     <td>
-      <img style="margin-left: 10px" src="https://github-readme-stats.vercel.app/api?username=Tysuiku&show_icons=true&theme=radical" style="border: 5px solid #333; border-radius: 10px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=Tysuiku&show_icons=true&theme=radical" style="border: 5px solid #333; border-radius: 10px;">
     </td>
   </tr>
   <tr>
