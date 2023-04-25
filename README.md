@@ -3,7 +3,6 @@
 </div>
 
 <div align="center">
-  <h2><strong>To Tysuiku's Page</strong></h2>
   <hr>
 </div>
 
