@@ -1,8 +1,5 @@
 <div align="center" style="position: relative;">
-  <img src="https://puu.sh/JFd9a/8d2137ce5e.jpeg" alt="Background" width="75%" style="border-radius: 10px;">
-  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); z-index: 1; color: #00BFFF; font-size: 48px; font-weight: bold; text-shadow: 2px 2px 0 #000, -2px -2px 0 #000, 2px -2px 0 #000, -2px 2px 0 #000, 0 0 10px #fff;">
-    WELCOME
-  </div>
+  <img src="https://puu.sh/JFdc5/ac7713b46f.png" alt="Background" width="75%" style="border-radius: 10px;">
 </div>
 
 <div align="center">
