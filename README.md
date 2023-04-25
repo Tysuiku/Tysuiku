@@ -17,7 +17,7 @@
     </td>
     <td style="padding: 8px;">
       <a href="https://www.youtube.com/@tysuiku" target="_blank">
-        <img src="https://puu.sh/JD4aB/7e3925b030.gif" width="180" style="border: 5px solid #00BFFF; border-radius: 10px;">
+        <img src="https://puu.sh/JD4aB/7e3925b030.gif" width="200" style="border: 5px solid #00BFFF; border-radius: 10px;">
       </a>
     </td>
   </tr>
