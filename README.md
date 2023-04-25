@@ -21,7 +21,7 @@
 <table align="center" style="border-collapse: collapse; width: 100%; max-width: 575px; margin-top: 15px;">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Tysuiku&show_icons=true&theme=radical" style="border: 5px solid #333; border-radius: 10px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=Tysuiku&show_icons=true&theme=radical" style="border: 5px solid #333; border-radius: 10px; margin-left:10px;" >
     </td>
   </tr>
   <tr>
