@@ -1,5 +1,12 @@
+<div align="center" style="position: relative;">
+  <img src="https://puu.sh/JFd9a/8d2137ce5e.jpeg" alt="Background" width="75%" style="border-radius: 10px;">
+  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); z-index: 1; color: #00BFFF; font-size: 48px; font-weight: bold; text-shadow: 2px 2px 0 #000, -2px -2px 0 #000, 2px -2px 0 #000, -2px 2px 0 #000, 0 0 10px #fff;">
+    WELCOME
+  </div>
+</div>
+
 <div align="center">
-  <h2>Welcome to Tysuiku's Page</h2>
+  <h2>To Tysuiku's Page</h2>
   <hr>
 </div>
 
@@ -14,9 +21,7 @@
       <a href="https://github.com/Tysuiku/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tysuiku&hide_progress=true" style="border: 5px solid #333; border-radius: 10px;">
       </a>
-    </td>
-    <td>
-      <a href="https://www.youtube.com/@tysuiku" target="_blank">
+      <a href="https://www.youtube.com/@tysuiku" target="_blank" style="margin-left: -50px;">
         <img src="https://puu.sh/JD4aB/7e3925b030.gif" width="200" style="border: 5px solid #00BFFF; border-radius: 10px;">
       </a>
     </td>
@@ -26,14 +31,3 @@
 <div align="center">
   <hr>
 </div>
-
-
-
-
-
-
-
-
-
-
-
