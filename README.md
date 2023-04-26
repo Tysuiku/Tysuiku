@@ -3,13 +3,19 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/timothy-dong-19a700254/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://www.linkedin.com/in/timothy-dong-19a700254/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=blue&style=for-the-badge&logo=linkedin&logoColor=white&cacheSeconds=3600" onmouseover="this.src='https://img.shields.io/static/v1?label=&message=LinkedIn&color=lightblue&style=for-the-badge&logo=linkedin&logoColor=white&cacheSeconds=3600'" onmouseout="this.src='https://img.shields.io/static/v1?label=&message=LinkedIn&color=blue&style=for-the-badge&logo=linkedin&logoColor=white&cacheSeconds=3600'" alt="LinkedIn Badge">
   </a>
-  <a href="https://github.com/Tysuiku">
-  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  <a href="https://github.com/Tysuiku" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=&message=GitHub&color=black&style=for-the-badge&logo=github&logoColor=white&cacheSeconds=3600" onmouseover="this.src='https://img.shields.io/static/v1?label=&message=GitHub&color=gray&style=for-the-badge&logo=github&logoColor=white&cacheSeconds=3600'" onmouseout="this.src='https://img.shields.io/static/v1?label=&message=GitHub&color=black&style=for-the-badge&logo=github&logoColor=white&cacheSeconds=3600'" alt="GitHub Badge">
   </a>
-</div>
+  <a href="https://www.youtube.com/@tysuiku" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=&message=YouTube&color=red&style=for-the-badge&logo=youtube&logoColor=white&cacheSeconds=3600" onmouseover="this.src='https://img.shields.io/static/v1?label=&message=YouTube&color=pink&style=for-the-badge&logo=youtube&logoColor=white&cacheSeconds=3600'" onmouseout="this.src='https://img.shields.io/static/v1?label=&message=YouTube&color=red&style=for-the-badge&logo=youtube&logoColor=white&cacheSeconds=3600'" alt="YouTube Badge">
+  </a>
+  <a href="https://twitter.com/Tysuiku" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=&message=Twitter&color=blue&style=for-the-badge&logo=twitter&logoColor=white&cacheSeconds=3600" onmouseover="this.src='https://img.shields.io/static/v1?label=&message=Twitter&color=lightblue&style=for-the-badge&logo=twitter&logoColor=white&cacheSeconds=3600'" onmouseout="this.src='https://img.shields.io/static/v1?label=&message=Twitter&color=blue&style=for-the-badge&logo=twitter&logoColor=white&cacheSeconds=3600'" alt="Twitter Badge">
+  </a>
+</div
 
 <div align="center">
   <hr>
