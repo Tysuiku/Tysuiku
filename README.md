@@ -6,39 +6,34 @@
   <hr>
 </div>
 
-<div align="center">
-  <table>
-    <tr>
-      <td><strong>React</strong></td>
-      <td><strong>Ruby</strong></td>
-      <td><strong>Ruby on Rails</strong></td>
-      <td><strong>JavaScript</strong></td>
-      <td><strong>PostgreSQL</strong></td>
-       <td><strong>MongoDb</strong></td>
-       <td><strong>Express</strong></td>
-       <td><strong>AWS</strong></td>
-    </tr>
-  </table>
-</div>
+## Technologies
 
-<table align="center" style="border-collapse: collapse; width: 100%; max-width: 575px; margin-top: 15px;">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Tysuiku&show_icons=true&theme=radical" style="border: 5px solid #333; border-radius: 10px; margin-left:20px;" >
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/Tysuiku/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tysuiku&hide_progress=true" style="border: 5px solid #333; border-radius: 10px;">
-      </a>
-      <a href="https://www.youtube.com/@tysuiku" target="_blank" style="margin-left: -50px;">
-        <img src="https://puu.sh/JD4aB/7e3925b030.gif" width="200" style="border: 5px solid #00BFFF; border-radius: 10px;">
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center" style="display: flex; flex-direction: column; justify-content: center;">
+  <a href="https://skills.thijs.gg">
+    <img src="https://skills.thijs.gg/icons?i=js,ts,react,redux,express,nodejs,ruby,rails,html,css,vscode,postman,git,sqlite&perline=6&theme=light" alt="My Skills">
+  </a>
+</div>
 
 <div align="center">
   <hr>
+</div>
+
+## Coding Stats
+
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=kliu33&theme=transparent" alt="GitHub Streak">
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/Tysuiku/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tysuiku&hide_progress=true&theme=transparent" style="border: 5px solid #333; border-radius: 10px;">
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://www.youtube.com/@tysuiku" target="_blank">
+    <img src="https://puu.sh/JD4aB/7e3925b030.gif" width="250" style="border: 2px solid #00BFFF; border-radius: 10px;">
+  </a>
 </div>
