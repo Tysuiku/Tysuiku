@@ -2,6 +2,15 @@
   <img src="https://puu.sh/JFdc5/ac7713b46f.png" alt="Background" width="75%" style="border-radius: 10px;">
 </div>
 
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/timothy-dong-19a700254/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://github.com/Tysuiku">
+  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+</div>
+
 <div align="center">
   <hr>
 </div>
