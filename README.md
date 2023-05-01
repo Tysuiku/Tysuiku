@@ -38,7 +38,7 @@
 <div align="center" style="cursor: default;">
   <h2 style="cursor: default;">Coding Stats</h2>
 
-  <a href="https://git.io/streak-stats" style="cursor: default;">
+  <a href="[![GitHub Streak](https://streak-stats.demolab.com?user=Tysuiku&theme=transparent)](https://git.io/streak-stats)" style="cursor: default;">
     <img src="https://streak-stats.demolab.com/?user=kliu33&theme=transparent" alt="GitHub Streak" style="pointer-events: none;">
   </a>
 </div>
