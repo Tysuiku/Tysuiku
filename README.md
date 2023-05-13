@@ -1,5 +1,5 @@
 <div align="center" style="position: relative;">
-  <img src="https://puu.sh/JFdc5/ac7713b46f.png" alt="Background" width="75%" style="border-radius: 10px; cursor: default;">
+  <img src="[https://puu.sh/JFdc5/ac7713b46f.png](https://cdn.discordapp.com/attachments/992483667710590998/1100489746511319050/Screenshot_2023-04-25_at_2.32.18_PM.png)" alt="Background" width="75%" style="border-radius: 10px; cursor: default;">
 </div>
 
 <div id="badges" align="center">
