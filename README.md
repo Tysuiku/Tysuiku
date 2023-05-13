@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://puu.sh/JFdc5/ac7713b46f.png" alt="Background" width="100%">
+  <a href="https://www.youtube.com/@tysuiku" target="_blank">
+    <img src="https://puu.sh/JD4aB/7e3925b030.gif" >
+  </a>
 </div>
 
 <div id="badges" align="center">
@@ -49,8 +51,4 @@
   </a>
 </div>
 
-<div align="center">
-  <a href="https://www.youtube.com/@tysuiku" target="_blank">
-    <img src="https://puu.sh/JD4aB/7e3925b030.gif" width="250">
-  </a>
-</div>
+
