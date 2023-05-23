@@ -4,6 +4,10 @@
   </a>
 </div>
 
+<div align="center"
+     <b>[Personal Site](https://tysuiku.io/)
+</div>
+
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/timothy-dong-19a700254/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
