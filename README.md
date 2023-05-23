@@ -4,8 +4,8 @@
   </a>
 </div>
 
-<div align="center"
-     <b>[Personal Site](https://tysuiku.io/)
+<div align="center">
+  <a href="https://tysuiku.io/" target="_blank"><b>Personal Site</b></a>
 </div>
 
 <div id="badges" align="center">
