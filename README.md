@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://www.youtube.com/@tysuiku" target="_blank">
-    <img src="https://puu.sh/JD4aB/7e3925b030.gif" >
+    <img src="https://media3.giphy.com/media/UHs2uWDADIM5QL00bG/giphy.gif" >
   </a>
 </div>
 
@@ -32,7 +32,7 @@
 
   <div>
     <a href="https://skills.thijs.gg">
-      <img src="https://skills.thijs.gg/icons?i=js,ts,react,redux,express,nodejs,ruby,rails,html,css,vscode,postman,git,sqlite&perline=6&theme=light" alt="My Skills">
+      <img src="https://skills.thijs.gg/icons?i=js,ts,react,redux,express,nodejs,ruby,rails,html,css,vscode,postman,git,sqlite,python,threejs,aws,mongodb&perline=6&theme=light" alt="My Skills">
     </a>
   </div>
 </div>
@@ -54,5 +54,3 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tysuiku&hide_progress=true&theme=transparent" style="border: 5px solid #333; border-radius: 10px;">
   </a>
 </div>
-
-
