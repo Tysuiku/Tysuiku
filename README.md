@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://www.youtube.com/@tysuiku" target="_blank">
-    <img src="https://media3.giphy.com/media/UHs2uWDADIM5QL00bG/giphy.gif" >
+    <img src="https://puu.sh/JICwV/e93235bfb2.gif" >
   </a>
 </div>
 
