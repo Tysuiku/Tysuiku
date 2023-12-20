@@ -1,10 +1,4 @@
 <div align="center">
-  <a href="https://www.youtube.com/@tysuiku" target="_blank">
-    <img src="https://puu.sh/JICwV/e93235bfb2.gif" >
-  </a>
-</div>
-
-<div align="center">
   <a href="https://tysuiku.io/" target="_blank"><b>Personal Site</b></a>
 </div>
 
