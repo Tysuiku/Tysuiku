@@ -24,21 +24,19 @@
     <hr>
   </div>
   
-  <div align="center">
+<div align="center">
+  <h2>Coding Stats</h2>
 
-    <h2>Coding Stats</h2>
-    <a href="https://github.com/Tysuiku/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tysuiku&hide_progress=true&theme=transparent" style="border: 5px solid #333; border-radius: 10px;">
-    </a>
-  </div>
-  
-  <div align="center">
-   
-  
-    <a href="https://git.io/streak-stats">
-      <img src="https://streak-stats.demolab.com/?user=Tysuiku&theme=transparent" alt="GitHub Streak">
-    </a>
-  </div>
+ <a href="https://github.com/Tysuiku/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tysuiku&hide_progress=true&theme=transparent" style="border: 5px solid #333; border-radius: 10px;">
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=Tysuiku&theme=transparent" alt="GitHub Streak">
+  </a>
+</div>
 
   <div align="center">
     <h2>Technologies</h2>
