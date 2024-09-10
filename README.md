@@ -38,45 +38,97 @@
   </a>
 </div>
 
-  <div align="center">
+<div align="center">
     <h2>Technologies</h2>
-    <div>
+    <div style="display: flex; flex-wrap: wrap; justify-content: center;">
       <!-- JavaScript -->
-      <img src="https://img.icons8.com/dusk/64/000000/javascript-logo.png" alt="JavaScript" width="50" style="margin: 10px;">
+      <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
+        <img src="https://img.icons8.com/dusk/64/000000/javascript-logo.png" alt="JavaScript" width="50">
+        <p style="font-family: 'Arial', sans-serif; color: #00aaff; font-size: 14px;">JavaScript</p>
+      </div>
       <!-- TypeScript -->
-      <img src="https://img.icons8.com/color/64/000000/typescript.png" alt="TypeScript" width="50" style="margin: 10px;">
+      <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
+        <img src="https://img.icons8.com/color/64/000000/typescript.png" alt="TypeScript" width="50">
+        <p style="font-family: 'Arial', sans-serif; color: #00aaff; font-size: 14px;">TypeScript</p>
+      </div>
       <!-- React -->
-      <img src="https://img.icons8.com/dusk/64/000000/react.png" alt="React" width="50" style="margin: 10px;">
+      <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
+        <img src="https://img.icons8.com/dusk/64/000000/react.png" alt="React" width="50">
+        <p style="font-family: 'Arial', sans-serif; color: #00aaff; font-size: 14px;">React</p>
+      </div>
       <!-- Redux -->
-      <img src="https://img.icons8.com/color/64/000000/redux.png" alt="Redux" width="50" style="margin: 10px;">
+      <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
+        <img src="https://img.icons8.com/color/64/000000/redux.png" alt="Redux" width="50">
+        <p style="font-family: 'Arial', sans-serif; color: #00aaff; font-size: 14px;">Redux</p>
+      </div>
       <!-- Node.js -->
-      <img src="https://img.icons8.com/color/64/000000/nodejs.png" alt="Node.js" width="50" style="margin: 10px;">
+      <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
+        <img src="https://img.icons8.com/color/64/000000/nodejs.png" alt="Node.js" width="50">
+        <p style="font-family: 'Arial', sans-serif; color: #00aaff; font-size: 14px;">Node.js</p>
+      </div>
       <!-- Express -->
-      <img src="https://img.icons8.com/color/64/000000/express.png" alt="Express" width="50" style="margin: 10px;">
+      <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
+        <img src="https://img.icons8.com/color/64/000000/express.png" alt="Express" width="50">
+        <p style="font-family: 'Arial', sans-serif; color: #00aaff; font-size: 14px;">Express</p>
+      </div>
       <!-- Ruby -->
-      <img src="https://img.icons8.com/color/64/000000/ruby-programming-language.png" alt="Ruby" width="50" style="margin: 10px;">
-      <!-- Ruby on Rails (updated working version) -->
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="Ruby on Rails" width="50" style="margin: 10px;">
+      <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
+        <img src="https://img.icons8.com/color/64/000000/ruby-programming-language.png" alt="Ruby" width="50">
+        <p style="font-family: 'Arial', sans-serif; color: #00aaff; font-size: 14px;">Ruby</p>
+      </div>
+      <!-- Ruby on Rails -->
+      <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="Ruby on Rails" width="50">
+        <p style="font-family: 'Arial', sans-serif; color: #00aaff; font-size: 14px;">Ruby on Rails</p>
+      </div>
       <!-- HTML -->
-      <img src="https://img.icons8.com/dusk/64/000000/html-5.png" alt="HTML" width="50" style="margin: 10px;">
+      <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
+        <img src="https://img.icons8.com/dusk/64/000000/html-5.png" alt="HTML" width="50">
+        <p style="font-family: 'Arial', sans-serif; color: #00aaff; font-size: 14px;">HTML</p>
+      </div>
       <!-- CSS -->
-      <img src="https://img.icons8.com/dusk/64/000000/css3.png" alt="CSS" width="50" style="margin: 10px;">
+      <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
+        <img src="https://img.icons8.com/dusk/64/000000/css3.png" alt="CSS" width="50">
+        <p style="font-family: 'Arial', sans-serif; color: #00aaff; font-size: 14px;">CSS</p>
+      </div>
       <!-- VS Code -->
-      <img src="https://img.icons8.com/dusk/64/000000/visual-studio-code-2019.png" alt="VS Code" width="50" style="margin: 10px;">
+      <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
+        <img src="https://img.icons8.com/dusk/64/000000/visual-studio-code-2019.png" alt="VS Code" width="50">
+        <p style="font-family: 'Arial', sans-serif; color: #00aaff; font-size: 14px;">VS Code</p>
+      </div>
       <!-- Postman -->
-      <img src="https://img.icons8.com/dusk/64/000000/postman-api.png" alt="Postman" width="50" style="margin: 10px;">
+      <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
+        <img src="https://img.icons8.com/dusk/64/000000/postman-api.png" alt="Postman" width="50">
+        <p style="font-family: 'Arial', sans-serif; color: #00aaff; font-size: 14px;">Postman</p>
+      </div>
       <!-- Git -->
-      <img src="https://img.icons8.com/color/64/000000/git.png" alt="Git" width="50" style="margin: 10px;">
+      <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
+        <img src="https://img.icons8.com/color/64/000000/git.png" alt="Git" width="50">
+        <p style="font-family: 'Arial', sans-serif; color: #00aaff; font-size: 14px;">Git</p>
+      </div>
       <!-- SQLite -->
-      <img src="https://img.icons8.com/dusk/64/000000/sql.png" alt="SQLite" width="50" style="margin: 10px;">
+      <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
+        <img src="https://img.icons8.com/dusk/64/000000/sql.png" alt="SQLite" width="50">
+        <p style="font-family: 'Arial', sans-serif; color: #00aaff; font-size: 14px;">SQLite</p>
+      </div>
       <!-- Python -->
-      <img src="https://img.icons8.com/dusk/64/000000/python.png" alt="Python" width="50" style="margin: 10px;">
+      <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
+        <img src="https://img.icons8.com/dusk/64/000000/python.png" alt="Python" width="50">
+        <p style="font-family: 'Arial', sans-serif; color: #00aaff; font-size: 14px;">Python</p>
+      </div>
       <!-- AWS -->
-      <img src="https://img.icons8.com/color/64/000000/amazon-web-services.png" alt="AWS" width="50" style="margin: 10px;">
+      <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
+        <img src="https://img.icons8.com/color/64/000000/amazon-web-services.png" alt="AWS" width="50">
+        <p style="font-family: 'Arial', sans-serif; color: #00aaff; font-size: 14px;">AWS</p>
+      </div>
       <!-- MongoDB -->
-      <img src="https://img.icons8.com/color/64/000000/mongodb.png" alt="MongoDB" width="50" style="margin: 10px;">
+      <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
+        <img src="https://img.icons8.com/color/64/000000/mongodb.png" alt="MongoDB" width="50">
+        <p style="font-family: 'Arial', sans-serif; color: #00aaff; font-size: 14px;">MongoDB</p>
+      </div>
     </div>
   </div>
+  
   
   
 
