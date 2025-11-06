@@ -3,10 +3,6 @@
         <img src="https://c.tenor.com/3nWwHqYYHqgAAAAC/tenor.gif" alt="GIF Image" style="border-radius: 10px; margin: 10px 0;">
     </a>
 </div>
-
-<div align="center">
-    <a href="https://tysuiku.io/" target="_blank"><b>Personal Site</b></a>
-  </div>
   
   <div id="badges" align="center">
     <a href="https://www.linkedin.com/in/timothy-dong-19a700254/" target="_blank">
