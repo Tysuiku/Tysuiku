@@ -3,15 +3,6 @@
   <h1>✦ SUICAPTOR ✦</h1>
 
   <p>
-    <strong>Your favorite characters. A collection worth showing off.</strong>
-  </p>
-
-  <p>
-    An anime &amp; gacha card-collecting game for Discord.<br>
-    Collect rare cards, upgrade your favorites, and challenge your friends.
-  </p>
-
-  <p>
     <a href="https://www.suicaptor.com/">
       <img
         src="https://img.shields.io/badge/EXPLORE_SUICAPTOR_%E2%86%97-8B5CF6?style=for-the-badge"
