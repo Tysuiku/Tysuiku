@@ -1,7 +1,5 @@
 <div align="center">
-
   <h1>✦ SUICAPTOR ✦</h1>
-
   <p>
     <a href="https://www.suicaptor.com/">
       <img
@@ -11,9 +9,7 @@
       >
     </a>
   </p>
-
   <br>
-
   <a href="https://www.suicaptor.com/">
     <img
       src="https://media.suicaptor.com/web/site/about-hero-e6f75484c7b3e06d.webp"
@@ -23,24 +19,19 @@
   </a>
 
   <br><br>
-
   <p>
     <strong>
       COLLECT &nbsp; ✦ &nbsp; UPGRADE &nbsp; ✦ &nbsp; BATTLE &nbsp; ✦ &nbsp; TRADE
     </strong>
   </p>
-
   <p>
     Chase Prestige cards. Customize your favorites.<br>
     Build a collection that feels like yours.
   </p>
-
   <br>
-
   <p>
     <a href="https://www.suicaptor.com/">
       <strong>Discover your next favorite card → suicaptor.com</strong>
     </a>
   </p>
-
 </div>
