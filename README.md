@@ -26,7 +26,7 @@
   </p>
   <p>
     Chase Prestige cards. Customize your favorites.<br>
-    Build a collection that feels like yours.
+    Build a collection unlike the rest.
   </p>
   <br>
   <p>
