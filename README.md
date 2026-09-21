@@ -1,37 +1,39 @@
 <div align="center">
-  <h1>✦ SUICAPTOR ✦</h1>
-  <p>
-    <a href="https://www.suicaptor.com/">
-      <img
-        src="https://img.shields.io/badge/EXPLORE_SUICAPTOR_%E2%86%97-8B5CF6?style=for-the-badge"
-        alt="Explore Suicaptor"
-        height="42"
-      >
-    </a>
-  </p>
-  <br>
   <a href="https://www.suicaptor.com/">
     <img
-      src="https://media.suicaptor.com/web/site/about-hero-e6f75484c7b3e06d.webp"
-      alt="Discover Suicaptor — collect your favorite anime and game characters"
+      src="https://media.suicaptor.com/web/site/suicaptor-topgg-banner-v1-b7b9d2b56cc705cf.jpg"
+      alt="Suicaptor — Anime cards. Your story."
       width="850"
     >
   </a>
 
   <br><br>
+
   <p>
     <strong>
-      COLLECT &nbsp; ✦ &nbsp; UPGRADE &nbsp; ✦ &nbsp; BATTLE &nbsp; ✦ &nbsp; TRADE
+      COLLECT &nbsp; ✦ &nbsp; CUSTOMIZE &nbsp; ✦ &nbsp; BATTLE &nbsp; ✦ &nbsp; TRADE
     </strong>
   </p>
+
   <p>
-    Chase Prestige cards. Customize your favorites.<br>
-    Build a collection unlike the rest.
+    Collect your favorite anime and game characters—all inside Discord.<br>
+    Chase animated Prestige cards. Make your favorites yours.<br>
+    Build a collection worth showing off.
   </p>
+
   <br>
+
+  <a href="https://www.suicaptor.com/">
+    <img
+      src="https://img.shields.io/badge/EXPLORE_SUICAPTOR_%E2%86%97-007A9E?style=for-the-badge"
+      alt="Explore Suicaptor"
+      height="42"
+    >
+  </a>
+
   <p>
     <a href="https://www.suicaptor.com/">
-      <strong>Discover your next favorite card → suicaptor.com</strong>
+      <strong>Your next favorite is a drop away → suicaptor.com</strong>
     </a>
   </p>
 </div>
